@@ -1,0 +1,14 @@
+[
+  {
+    "isbn": "0001",
+    "title": "PHP",
+    "author": "User",
+    "publish_year": 2026
+  },
+  {
+    "isbn": "0002",
+    "title": "Python",
+    "author": "Test User",
+    "publish_year": 2025
+  }
+]
