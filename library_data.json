@@ -1,12 +1,24 @@
 [
   {
     "isbn": "0001",
+    "title": "JAVA",
+    "author": "John",
+    "publish_year": 2022
+  },
+  {
+    "isbn": "0002",
     "title": "PHP",
     "author": "User",
     "publish_year": 2026
   },
   {
-    "isbn": "0002",
+    "isbn": "0003",
+    "title": "Python",
+    "author": "Ant",
+    "publish_year": 2023
+  },
+  {
+    "isbn": "0004",
     "title": "Python",
     "author": "Test User",
     "publish_year": 2025
